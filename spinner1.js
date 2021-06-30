@@ -15,9 +15,6 @@ setTimeout(() => {
   process.stdout.write('\r\\   ');
 }, 700);
 
-// ... fill in the rest yourself ...
-
-
 setTimeout(() => {
   process.stdout.write('\r\|   ');
 }, 900);
@@ -41,6 +38,7 @@ setTimeout(() => {
 setTimeout(() => {
   process.stdout.write('\r\|   ');
 }, 1700);
+
 
 
 
